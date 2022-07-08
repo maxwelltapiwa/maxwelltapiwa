@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maxwelltapiwa
-- 👀 I’m interested in ...computer science
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning ... computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... maxwellgwatidzo00@gmail.com, +263 77 698 1316
 
 <!---
